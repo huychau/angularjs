@@ -27,7 +27,7 @@ npm install -g generator-gulp-angular
 ```
 ## Create new project
 ```
-mkdir your-project $$ cd $_
+mkdir your-project && cd $_
 yo gulp-angular [your-projet]
 ```
 
