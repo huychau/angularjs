@@ -25,3 +25,18 @@ npm install -g yo gulp bower
 ```
 npm install -g generator-gulp-angular
 ```
+## Create new project
+```
+mkdir your-project $$ cd $_
+yo gulp-angular [your-projet]
+```
+
+### Error! npm
+ - Clean npm cache and remove node_modules folder
+ ```
+ npm cache clean && rm -rf node_modules
+ ```
+ - Re-install (or as root) npm with --no-bin-links
+ ```
+ [sudo] npm install --no-bik-links
+ ```
