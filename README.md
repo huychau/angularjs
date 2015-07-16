@@ -38,5 +38,5 @@ yo gulp-angular [your-projet]
  ```
  - Re-install (or as root) npm with --no-bin-links
  ```
- [sudo] npm install --no-bik-links
+ [sudo] npm install --no-bin-links
  ```
